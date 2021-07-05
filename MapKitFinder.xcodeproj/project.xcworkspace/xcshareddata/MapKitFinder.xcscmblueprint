@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5CD38BB8F748FEB1A2848EF4B1B305D34A6D80C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B4FFEA2A6362DC1FED57633D95CA03C206D5B10D" : 0,
+    "5CD38BB8F748FEB1A2848EF4B1B305D34A6D80C7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B36AB436-8B72-4B5D-852D-1879B171E528",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B4FFEA2A6362DC1FED57633D95CA03C206D5B10D" : "",
+    "5CD38BB8F748FEB1A2848EF4B1B305D34A6D80C7" : "MapKitFinder\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MapKitFinder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MapKitFinder.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mng335n\/MapKitFinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5CD38BB8F748FEB1A2848EF4B1B305D34A6D80C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SilentiumIO\/Nguyen-Anh-Minh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B4FFEA2A6362DC1FED57633D95CA03C206D5B10D"
+    }
+  ]
+}
